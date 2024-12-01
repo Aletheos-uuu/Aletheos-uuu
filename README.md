@@ -7,6 +7,8 @@
 
 ## CERTIFICATIONS
 <a href="https://courses.cognitiveclass.ai/certificates/9f387ac6ef8749da8e4e0e8399353247#">SQL and Relational Databases 101</a>
+<br>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF41281CCA19287323EB9B83AB7FC3C1AD4C28A8FCEB3FDBD10D07D23B85AB6F">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a>
 
 ## SKILL SETS
 <p><h5><ul><li>Programming: Java <br> <li>Databases: IBM DB2 Cloud <br> </li> <li> Tools: Lucidchart, Eclipse</li></li></ul></h5>
