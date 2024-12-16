@@ -11,6 +11,8 @@
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=CF41281CCA19287323EB9B83AB7FC3C1AD4C28A8FCEB3FDBD10D07D23B85AB6F">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a>
 <br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF41281CCA19287323EB9B83AB7FC3C1C7787E43903534F8A64572F390019B39">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a>
+<br>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=92EAAA09DED3E05D62D099E6F7347BAAE3695E1BC849E6CDFF12AE0A8AC7A061">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a>
 ## SKILL SETS
 <p><h5><ul><li>Programming: Java <br> <li>Databases: IBM DB2 Cloud <br> </li> <li> Tools: Lucidchart, Eclipse</li></li></ul></h5>
 
