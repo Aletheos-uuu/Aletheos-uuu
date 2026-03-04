@@ -1,4 +1,4 @@
-## Hi there, I'm Aletheos.
+## I'm Aletheos.
 
 <p>I am eager to expand my knowledge of programming through hands-on projects and the insights of experienced professionals, and I am committed to enhancing my skills and collaborating effectively with others in the field.</p>
 
