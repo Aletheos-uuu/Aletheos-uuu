@@ -13,6 +13,11 @@
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=CF41281CCA19287323EB9B83AB7FC3C1C7787E43903534F8A64572F390019B39">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a>
 <br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=92EAAA09DED3E05D62D099E6F7347BAAE3695E1BC849E6CDFF12AE0A8AC7A061">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a>
+<br>
+<a href="https://edu.google.accredible.com/b7b950ab-5806-43cc-aaf4-42c5ed0f2d93#acc.6NiyxESR">Gemini Certified University Student</a>
+<br>
+<a href="https://verify.skilljar.com/c/hf5ajijnzkb4">Claude 101</a>
+
 ## SKILL SETS
 <p><h5><ul><li>Programming: Java <br> <li>Databases: IBM DB2 Cloud <br> </li> <li> Tools: Lucidchart, Eclipse</li></li></ul></h5>
 
