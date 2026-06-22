@@ -18,6 +18,9 @@
 <br>
 <a href="https://verify.skilljar.com/c/hf5ajijnzkb4">Claude 101</a>
 <br>
+<a href="https://verify.skilljar.com/c/4sh7rf7eem2e">Building with the Claude API
+</a>
+<br>
 <a href="https://verify.skilljar.com/c/83c2kx42o8bj">Model Context Protocol: Advanced Topics
 </a>
 
