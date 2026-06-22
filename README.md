@@ -17,6 +17,9 @@
 <a href="https://edu.google.accredible.com/b7b950ab-5806-43cc-aaf4-42c5ed0f2d93#acc.6NiyxESR">Gemini Certified University Student</a>
 <br>
 <a href="https://verify.skilljar.com/c/hf5ajijnzkb4">Claude 101</a>
+<br>
+<a href="https://verify.skilljar.com/c/83c2kx42o8bj">Model Context Protocol: Advanced Topics
+</a>
 
 ## SKILL SETS
 <p><h5><ul><li>Programming: Java <br> <li>Databases: IBM DB2 Cloud <br> </li> <li> Tools: Lucidchart, Eclipse</li></li></ul></h5>
