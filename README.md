@@ -3,7 +3,7 @@
 <p>I am eager to expand my knowledge of programming through hands-on projects and the insights of experienced professionals, and I am committed to enhancing my skills and collaborating effectively with others in the field.</p>
 
 ## EDUCATION
-<p><h5><ul><li>BACHELOR OF SCIENCE IN COMPUTER SCIENCE <br> <ul>New Era University (2024-PRESENT) </ul></li></ul></h5>
+<p><h5><ul><li>BACHELOR OF SCIENCE IN COMPUTER SCIENCE <br> <ul>New Era University (2023-PRESENT) </ul></li></ul></h5>
 
 ## CERTIFICATIONS
 <a href="https://courses.cognitiveclass.ai/certificates/9f387ac6ef8749da8e4e0e8399353247#">SQL and Relational Databases 101</a>
