@@ -23,6 +23,12 @@
 <br>
 <a href="https://verify.skilljar.com/c/83c2kx42o8bj">Model Context Protocol: Advanced Topics
 </a>
+<br>
+<a href="https://courses.cognitiveclass.ai/certificates/4edd769ba4a844f89ec7cb7ac8c7b09d">Introduction to Containers, Kubernetes, and OpenShift
+</a>
+<br>
+<a href="https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1788184544/4177376219AP.pdf">BUS206: Management Information Systems
+</a>
 
 ## SKILL SETS
 <p><h5><ul><li>Programming: Java <br> <li>Databases: IBM DB2 Cloud <br> </li> <li> Tools: Lucidchart, Eclipse</li></li></ul></h5>
